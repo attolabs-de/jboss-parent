@@ -1,5 +1,6 @@
 # JBoss parent
-
+### Link to Maven repository
+https://nexusoss.albs.tech/service/rest/repository/browse/jboss-parent/
 ### Versions and differences
 1. JBoss parent version: from `36` to `40-SNAPSHOT`
 2. `version.antrun.plugin` version: from `1.8` to `3.1.0`
