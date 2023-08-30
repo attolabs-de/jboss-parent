@@ -137,7 +137,7 @@
     <jboss.releases.repo.id>jboss-releases-repository</jboss.releases.repo.id>
     <jboss.releases.repo.url>https://repository.jboss.org/nexus/service/local/staging/deploy/maven2/</jboss.releases.repo.url>
     <jboss.snapshots.repo.id>jboss-snapshots-repository</jboss.snapshots.repo.id>
-    <jboss.snapshots.repo.url>https://repository.jboss.org/nexus/content/repositories/snapshots/</jboss.snapshots.repo.url>
+    <jboss.snapshots.repo.url>https://nexusoss.albs.tech/repository/jboss-kie-parent/</jboss.snapshots.repo.url>
 
     <!-- ************** -->
     <!-- Build settings -->
@@ -190,7 +190,7 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>https://nexusoss.albs.tech/repository/jboss-parent/</url>
+      <url>https://nexusoss.albs.tech/repository/jboss-kie-parent/</url>
     </snapshotRepository>
   </distributionManagement>
 
